@@ -754,7 +754,7 @@ header .container nav .form i {
   width: 100%;
   display: grid;
   position: relative;
-  grid-template-columns: 1.5fr auto;
+  grid-template-columns: 3fr 1fr;
 }
 .subscribe .container form i {
   position: absolute;
